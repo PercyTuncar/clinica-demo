@@ -20,7 +20,7 @@ const INITIAL_DOCTORS: Doctor[] = [
         yearsOfExperience: 10,
         rating: 4.9,
         totalPatients: 1250,
-        avatar: '/doctors/sofia.jpg',
+        avatar: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&auto=format&fit=crop&q=80',
         servicesOffered: ['SVC-002', 'SVC-006', 'SVC-007'], // Ortodoncia related
         active: true,
         color: '#EC4899', // Pink
@@ -46,7 +46,7 @@ const INITIAL_DOCTORS: Doctor[] = [
         yearsOfExperience: 8,
         rating: 4.7,
         totalPatients: 890,
-        avatar: '/doctors/alejandro.jpg',
+        avatar: 'https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=800&auto=format&fit=crop&q=80',
         servicesOffered: ['SVC-005', 'SVC-001', 'SVC-007'], // Endodoncia + basic
         active: true,
         color: '#3B82F6', // Blue
@@ -72,7 +72,7 @@ const INITIAL_DOCTORS: Doctor[] = [
         yearsOfExperience: 12,
         rating: 5.0,
         totalPatients: 640,
-        avatar: '/doctors/valentina.jpg',
+        avatar: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=800&auto=format&fit=crop&q=80',
         servicesOffered: ['SVC-004', 'SVC-008'], // Implantes, Protesis
         active: true,
         color: '#8B5CF6', // Purple
@@ -98,7 +98,7 @@ const INITIAL_DOCTORS: Doctor[] = [
         yearsOfExperience: 5,
         rating: 4.8,
         totalPatients: 1560,
-        avatar: '/doctors/diego.jpg',
+        avatar: 'https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=800&auto=format&fit=crop&q=80',
         servicesOffered: ['SVC-001', 'SVC-003', 'SVC-007'], // Limpieza, Blanqueamiento, Extraccion
         active: true,
         color: '#10B981', // Emerald

@@ -76,7 +76,7 @@ export function Hero() {
                         <div className="relative w-full max-w-[500px] aspect-[4/5]">
                             <div className="absolute inset-0 bg-teal-200 rounded-[3rem] rotate-6 opacity-20 transform translate-x-4 translate-y-4"></div>
                             <img
-                                src="https://images.unsplash.com/photo-1588776814546-1ffcf4722e63?w=800&auto=format&fit=crop&q=80"
+                                src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&auto=format&fit=crop&q=80"
                                 alt="Dental Care"
                                 className="relative w-full h-full object-cover rounded-[3rem] shadow-2xl z-10"
                             />

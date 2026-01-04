@@ -10,28 +10,28 @@ const TESTIMONIALS = [
         treatment: "Ortodoncia Invisible",
         rating: 5,
         comment: "Excelente atención de la Dra. Sofia. Mi sonrisa cambió por completo en menos tiempo del esperado. El proceso fue casi invisible.",
-        avatar: "/avatars/ana.jpg"
+        avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&auto=format&fit=crop&q=60"
     },
     {
         name: "Carlos Fuentes",
         treatment: "Implante Dental",
         rating: 5,
         comment: "Tenía mucho miedo al dentista, pero el Dr. Valentina fue muy paciente y profesional. No sentí dolor absoluto.",
-        avatar: "/avatars/carlos.jpg"
+        avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=60"
     },
     {
         name: "Lucía Méndez",
         treatment: "Blanqueamiento LED",
         rating: 5,
         comment: "Resultados inmediatos desde la primera sesión. La clínica es hermosa, muy limpia y huelen increíble.",
-        avatar: "/avatars/lucia.jpg"
+        avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&auto=format&fit=crop&q=60"
     },
     {
         name: "Pedro Soto",
         treatment: "Limpieza Profunda",
         rating: 4,
         comment: "Muy puntuales y amables. Me explicaron todo el procedimiento antes de empezar y me sentí muy seguro.",
-        avatar: "/avatars/pedro.jpg"
+        avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=60"
     }
 ];
 
